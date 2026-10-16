@@ -3,7 +3,6 @@
 > 来源：Anthropic Engineering  
 > 原文：https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents  
 > 发布日期：2025-11-26  
-> 说明：以下为结构化中文整理，不是逐字翻译。
 
 ## 1. 核心问题
 
